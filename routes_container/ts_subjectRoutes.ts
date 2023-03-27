@@ -5,8 +5,8 @@ import {
   getSubjectsById,
   createSubject,
   updateSubject,
-  deleteSubject,
-} from '../function_container/subjectFunctions';
+  deleteSubject
+} from '../function_container/ts_subjectFunctions';
 
 const router = express.Router();
 
